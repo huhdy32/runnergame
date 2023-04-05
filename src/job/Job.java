@@ -1,4 +1,5 @@
 package runnergame.src.job;
 
-public interface jobInterface {
+public interface Job {
+    public void Skill();
 }
